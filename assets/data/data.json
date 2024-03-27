@@ -1,0 +1,217 @@
+{
+    "title": "Fabian Massotto | Portafolio",
+    "description": "-",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Fabian Massotto",
+    "skill": "Full-stack developer with an interest in AI",
+    "location": "Buenos Aires, Argentina",
+    "media": {
+        "email": "massotto.fabian@gmail.com",
+        "cv": "/data/CV.pdf",
+        "github": "https://github.com/fabimass",
+        "likedin": "https://linkedin.com/in/massottofabian"
+    },
+    "about": "I am naturally curious and passionate about technology and innovation, devoted to keep learning every day. I love working in fast-paced and dynamic environments, with different cultures and backgrounds, where collaboration is key to success. A problem solver at heart, I approach challenging scenarios with a creative mindset and enjoy finding solutions.",
+    "technologies": [
+        {
+            "icon": "devicon-typescript-plain",
+            "name": "TypeScript"
+        },
+        {
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-azure-plain",
+            "name": "Azure"
+        },
+        {
+            "icon": "devicon-terraform-plain",
+            "name": "Terraform"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "ExxonMobil",
+            "subtitle": "Full-stack developer",
+            "description": "I've been through a variety of developer assignments, with different teams and scopes. Currently, my role is focused in the design and development of cloud applications, reusable modules and starter kits aimed to improve developer experience across the company.",
+            "date": "Jul 2020 - Present"
+        },
+        {
+            "icon": "terminal",
+            "title": "Ernst & Young",
+            "subtitle": "Computer forensics engineer",
+            "description": "Multifaceted role mainly focused in developing software to enhance the efficiency and effectiveness of our investigative processes.",
+            "date": "Jun 2019 - Jul 2020"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "code",
+            "title": "Counting Atoms",
+            "subtitle": "",
+            "description": "A simple math skills game where you have to guess the number of atoms shown on screen.",
+            "technologies": [
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-tailwindcss-plain",
+                    "name": "Tailwind"
+                },
+                {
+                    "icon": "devicon-firebase-plain",
+                    "name": "Firebase"
+                }
+            ],
+            "image": "/project_1.png",
+            "url": "https://fabimass.github.io/counting-atoms",
+            "github": "https://github.com/fabimass/counting-atoms"
+        },
+        {
+            "icon": "code",
+            "title": "Maze Runner",
+            "subtitle": "",
+            "description": "This application uses basic AI algorithms in order to solve mazes.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-redux-plain",
+                    "name": "Redux"
+                }
+            ],
+            "image": "/project_2.png",
+            "url": "https://maze-runner-kappa.vercel.app",
+            "github": "https://github.com/fabimass/maze-runner"
+        },
+        {
+            "icon": "code",
+            "title": "Qatar 2022",
+            "subtitle": "",
+            "description": "A fixture of the world cup.",
+            "technologies": [
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-nextjs-plain",
+                    "name": "Next"
+                },
+                {
+                    "icon": "devicon-tailwindcss-plain",
+                    "name": "Tailwind"
+                }
+            ],
+            "image": "/project_3.png",
+            "url": "https://qatar-2022-eight.vercel.app",
+            "github": "https://github.com/fabimass/qatar-2022"
+        }
+    ],
+    "education": [
+        {
+            "icon": "graduation-cap",
+            "title": "University of Buenos Aires",
+            "subtitle": "Specialist's degree in artificial intelligence (AI)",
+            "description": "",
+            "date": "Mar 2024 - Present",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Universidad Tecnologica Nacional",
+            "subtitle": "Engineer's degree in electronics",
+            "description": "",
+            "date": "Mar 2014 - Dec 2019",
+            "certificate": ""
+        }
+    ],
+    "certifications": [
+        {
+            "icon": "devicon-github-plain",
+            "title": "GitHub Foundations",
+            "subtitle": "",
+            "description": "Validates subject matter expertise with GitHub basics like repositories, commits, branching, markdowns, and project management.",
+            "date": "Feb 2024",
+            "certificate": "https://www.credly.com/badges/4d0775bf-3f59-4b29-9944-61e500938467"
+        },
+        {
+            "icon": "devicon-azure-plain",
+            "title": "Microsoft Certified: Azure AI Fundamentals",
+            "subtitle": "",
+            "description": "Demonstrates fundamental AI concepts related to the development of software and services of Microsoft Azure to create AI solutions.",
+            "date": "Aug 2023",
+            "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/9F0E1814FEEE5706?sharingId=A04F797D50B14F78"
+        },
+        {
+            "icon": "devicon-azure-plain",
+            "title": "Microsoft Certified: Azure Developer Associate",
+            "subtitle": "",
+            "description": "Demonstrates knowledge in building end-to-end solutions in Microsoft Azure, creating Azure Functions, implementing and managing web apps, utilizing Azure storage, and more.",
+            "date": "Jun 2023",
+            "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/A5C5CD6E75D097C2?sharingId=A04F797D50B14F78"
+        },
+        {
+            "icon": "devicon-azure-plain",
+            "title": "Microsoft Certified: Azure Fundamentals",
+            "subtitle": "",
+            "description": "Demonstrates foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.",
+            "date": "Dec 2020",
+            "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/73546F09CA5483B5?sharingId=A04F797D50B14F78"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
