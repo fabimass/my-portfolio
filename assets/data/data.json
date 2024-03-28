@@ -146,7 +146,7 @@
         {
             "icon": "graduation-cap",
             "title": "University of Buenos Aires",
-            "subtitle": "Specialist's degree in artificial intelligence (AI)",
+            "subtitle": "Master's degree in artificial intelligence (AI)",
             "description": "",
             "date": "Mar 2024 - Present",
             "certificate": ""
@@ -165,15 +165,15 @@
             "icon": "devicon-github-plain",
             "title": "GitHub Foundations",
             "subtitle": "",
-            "description": "Validates subject matter expertise with GitHub basics like repositories, commits, branching, markdowns, and project management.",
+            "description": "Demonstrates subject matter expertise with GitHub basics like repositories, commits, branching, markdowns, and project management.",
             "date": "Feb 2024",
             "certificate": "https://www.credly.com/badges/4d0775bf-3f59-4b29-9944-61e500938467"
         },
         {
             "icon": "devicon-azure-plain",
-            "title": "Microsoft Certified: Azure AI Fundamentals",
+            "title": "Microsoft Certified: AI Fundamentals",
             "subtitle": "",
-            "description": "Demonstrates fundamental AI concepts related to the development of software and services of Microsoft Azure to create AI solutions.",
+            "description": "Demonstrates a foundational understanding of AI concepts and how they are implemented on the Microsoft Azure platform.",
             "date": "Aug 2023",
             "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/9F0E1814FEEE5706?sharingId=A04F797D50B14F78"
         },
@@ -181,7 +181,7 @@
             "icon": "devicon-azure-plain",
             "title": "Microsoft Certified: Azure Developer Associate",
             "subtitle": "",
-            "description": "Demonstrates knowledge in building end-to-end solutions in Microsoft Azure, creating Azure Functions, implementing and managing web apps, utilizing Azure storage, and more.",
+            "description": "Demonstrates proficiency in designing, building, testing, and maintaining cloud applications and services on the Microsoft Azure platform.",
             "date": "Jun 2023",
             "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/A5C5CD6E75D097C2?sharingId=A04F797D50B14F78"
         },
@@ -189,7 +189,7 @@
             "icon": "devicon-azure-plain",
             "title": "Microsoft Certified: Azure Fundamentals",
             "subtitle": "",
-            "description": "Demonstrates foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.",
+            "description": "Demonstrates foundational knowledge of cloud concepts and core Azure services.",
             "date": "Dec 2020",
             "certificate": "https://learn.microsoft.com/api/credentials/share/en-us/61177999/73546F09CA5483B5?sharingId=A04F797D50B14F78"
         }
